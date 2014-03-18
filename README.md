@@ -9,10 +9,11 @@ Make this directory void of all other text docs. Run the program and press load.
 automatically be loaded into the program. For more information, read the ReadMe in the zip file.
 
 
+
+
 This application is dependent on pyglet. 
 If you are on a mac, install pyglet with pip install hg+https://pyglet.googlecode.com/hg/.
 
-or 
-
-unzip the zip and open the .app file (extension hidden)
+or run the program as a mac application by 
+unziping the zip and open the .app file (extension hidden)
 
